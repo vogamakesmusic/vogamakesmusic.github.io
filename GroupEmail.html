@@ -1,0 +1,27 @@
+<head>
+<title>Group Email</title>
+</head>
+<body>
+
+<script language="javascript">
+ let person = prompt("Please enter your identification name", "");
+let text;
+if (person == null || person == "") {
+  text = "User cancelled the prompt.";
+} else {
+  text = "Hello " + person + "! How are you today?";
+}
+</script>
+
+<p style="font-size:30px">VOGAMUSICRECORDS GROUP EMAIL</p>
+
+<input type="text" name="email" value="teammessage@vogamusicrecords.co.uk" size="33" readonly>
+<br>
+<input type="text" name="subject" value="" size="100" <input>
+<br>
+<input type="text" name="body" value="" size="100" <input>
+<br>
+<b>Max Characters: 100<b>
+<br>
+<form method="get" action="/Files/Website Development/EmailSent.html">
+    <button type="submit">Send</button>
