@@ -1,0 +1,18 @@
+// make temp file for main running
+create /FileStorage/GroupEmailAssets/temp.narcomanagement
+
+// connect to domain
+run connect.narcomanagement;class={domain}
+
+// check sender domain
+if /FileStorage/GroupEmailAssets/domainregister.narcomanagement;class={domain},valid;continue,else;error
+
+// send email
+continueclass{
+
+send SUBJECT[FormSubject]
+send BODY[FormBody]
+on return;
+
+redirect/github-repo/cameronbell2022/cameronbell2022.github.io/EmailSent.html
+}
