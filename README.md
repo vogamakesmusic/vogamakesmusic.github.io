@@ -1,6 +1,6 @@
 # NOTICE FOR ADMIN SITE
 Ths site is use and only for use by VOGAMUSICRECORDS administrators and VOGAMUSICRECORDS administrators ONLY.
-We state at the bottom of the main page: By using this site, your data will NOT be stored. If you are not a member of the VOGAMUSICRECORDS Administration Team, Immediately log out of this account.
+We state at the bottom of the main page: By using this site, your data will NOT be stored. If you are not a member of the VOGAMUSICRECORDS Administration Team, Immediately log out of this account. [Apply Here](https://forms.gle/Q651NzDJ36NfCcT6A) for the team.
 
 # VOGAMUSICRECORDS ADMIN SITE
 We will never share/shell your personal ip address/device details to any third-party companys.
