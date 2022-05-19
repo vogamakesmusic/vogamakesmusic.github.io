@@ -14,5 +14,5 @@ send SUBJECT[FormSubject]
 send BODY[FormBody]
 on return;
 
-redirect/github-repo/cameronbell2022/cameronbell2022.github.io/EmailSent.html
+redirect/github-repo/vogamakesmusic/vogamakesmusic.github.io/EmailSent.html
 }
